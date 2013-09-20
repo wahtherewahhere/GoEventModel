@@ -13,8 +13,6 @@ work fine with Go 1.1
 `import "github.com/wahtherewahhere/GoEventModel" `  
 or use alias  
 `import eventModel "github.com/wahtherewahhere/GoEventModel"`  
-or  
-`import em "github.com/wahtherewahhere/GoEventModel"`  
 
 ## Usage
 
