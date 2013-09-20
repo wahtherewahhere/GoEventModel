@@ -1,4 +1,4 @@
-GoEventModel ( old name: go-event-model )
+GoEventModel
 ================
 
 event-model, written by go-lang,   
@@ -6,15 +6,15 @@ work fine with Go 1.1
 
 ## Install
 
-`go get github.com/wahtherewahhere/go-event-model`
+`go get github.com/wahtherewahhere/GoEventModel`
 
 ## Import
 
-`import "github.com/wahtherewahhere/go-event-model" `  
+`import "github.com/wahtherewahhere/GoEventModel" `  
 or use alias  
-`import eventModel "github.com/wahtherewahhere/go-event-model"` 
-or 
-`import em "github.com/wahtherewahhere/go-event-model"`  
+`import eventModel "github.com/wahtherewahhere/GoEventModel"`  
+or  
+`import em "github.com/wahtherewahhere/GoEventModel"`  
 
 ## Usage
 
@@ -111,6 +111,9 @@ Have Fun!
         fmt.Println("thanks you for download my package!");
     }
 ```
+
+## Todo List
+1. Test case  
 
 ## License
 
